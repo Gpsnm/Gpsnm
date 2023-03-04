@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Front end development**
 
+- 👨‍💻 All of my projects are available at [https://gpsnm.github.io/AdamWilletts/](https://gpsnm.github.io/AdamWilletts/)
+
 - 📫 How to reach me **adam-willetts@Hotmail.co.uk**
+
+- ⚡ Fun fact **Googling Things is my favourite hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
